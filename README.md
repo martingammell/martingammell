@@ -6,7 +6,7 @@
 
 ## About me
 
-<div style="float: right; width: 200px;">
+<div style="float: right; width: 200px; margin-left: 15px;">
   <img alt="Brown Hairstreak" width="200px" src="/images/BrownHairstreak_Male_Callownamuck4_01082020_crop.jpg" />
   <p style="text-align: center;"><em>Brown Hairstreak Butterfly</em></p>
 </div>
