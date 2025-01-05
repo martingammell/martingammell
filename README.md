@@ -5,6 +5,4 @@
 ## About me
 I am a Lecturer and Researcher in Animal Behaviour, Conservation and Freshwater Biology at [Atlantic Technological University](https://www.atu.ie/) (ATU). I am joint coordinator of the [MSc in Conservation Behaviour](https://www.atu.ie/courses/master-of-science-conservation-behaviour) at ATU. My main areas of research are animal contest behaviour, social dominance, animal communication and, more generally, the application of behavioural concepts to wildlife management and conservation. I am also interested in the ecology of freshwater species, the ecology and conservation of Irish butterflies, and methodological and statistical techniques used in ecological research.
 
-![Bluesky Logo](/images/bluesky_media_kit_logo_3.png)
-
-<img src="/images/bluesky_media_kit_logo_3.png" alt="Bluesky Logo" width="200" height="200">
+<img src="/images/bluesky_media_kit_logo_3.png" alt="Bluesky Logo" width="50" height="50">
