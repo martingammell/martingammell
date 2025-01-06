@@ -6,5 +6,3 @@
 
 ## About me :butterfly: :computer: :deer: :chart_with_upwards_trend: :seal: :telescope: :fish:
 I am a Lecturer and Researcher in Animal Behaviour, Conservation and Freshwater Biology at [Atlantic Technological University](https://www.atu.ie/) (ATU). I am joint coordinator of the [MSc in Conservation Behaviour](https://www.atu.ie/courses/master-of-science-conservation-behaviour) at ATU. My main research interests are animal contest behaviour, animal communication, and the application of behavioural concepts to wildlife management and conservation. I am also interested in the ecology of freshwater species, the ecology and conservation of Irish butterflies, and methodological and statistical techniques used in ecological research. You can find a list of my publications [here](https://github.com/martingammell/publications/blob/main/README.md).
-
-:book: You can find a list of my publications [here](https://github.com/martingammell/publications/blob/main/README.md)
